@@ -1,0 +1,48 @@
+*{
+    
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color:#e8e6e6;
+}
+
+
+.Menu{
+    display: flex;
+    justify-content:end;
+    gap: 10px;
+    margin: 10px;
+}
+
+.logo1{
+    justify-content: space-around;
+    display: flex;
+}
+
+.estrutura{
+    justify-content: space-around;
+    display: flex;
+    
+}
+
+#bloco{
+    width: 100%;
+    display: flex;
+}
+
+#Serviços{
+    width: 70%;
+
+}
+p,h2,h3{
+    /* background-color: aqua; */
+    margin: 20px;
+    /* padding: 40px; */
+}
+
+#Agenda{
+    width: 30%;
+
+}
